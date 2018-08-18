@@ -1,3 +1,4 @@
+/*
 //lado del usuario
 //crea, borre, obtenga, actulizar
 let request = require('request');
@@ -53,4 +54,5 @@ let borrarUsuario = new Promise( (resolve, reject) => {
 });
 
 then(usuario2 => console.log(usuario2))
-.catch(error => console.log(error));
+.catch(error => console.log(error));*/
+console.log("Segundo commit");
